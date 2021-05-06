@@ -1,8 +1,8 @@
 # Upward Fall
-Project for Design studio
+</h1> Project for Design studio </h1>
 
-Inital Project upload that includes a start screen, loading screen, intro level, and credits. 
+</p> Inital Project upload that includes a start screen, loading screen, intro level, and credits. </p>
 
-Controls for 2 players are split keyboard, wasd/arrow keys and abilities using 1 & 2 for player 1 and 8 & 9 for player 2, or joystick.
+</p> Controls for 2 players are split keyboard, wasd/arrow keys and abilities using 1 & 2 for player 1 and 8 & 9 for player 2, or joystick. </p>
 
-Primary goal: add leapmotion functionality for hand/gesture controls for abilities
+</p> Primary goal: add leapmotion functionality for hand/gesture controls for abilities </p>
