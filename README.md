@@ -5,4 +5,6 @@
 
 </p> Current primary controls for 2 players are split keyboard, wasd/arrow keys and abilities using 1 & 2 for player 1 and 8 & 9 for player 2, with some joystick/button functionality. </p>
 
-</p> Primary goal: add leapmotion functionality for hand/gesture controls for abilities </p>
+</p> Primary goals: add leapmotion functionality for hand/gesture controls for abilities </p>
+</p> Seconary goals: Build out levels, finish credits </p>
+</p> Tertiary goals: optimization </p>
